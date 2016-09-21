@@ -10,7 +10,7 @@ I had worked for almost two years in my scrum agile team on the project, and aft
 
 Having come from the 'other side' of tech, and from having worked with many developers during my career, it always amazed me to see what can be achieved by a good team of developers - I can't count the number of times they saved my ass with a quick bugfix in the minutes before presenting a demo. 
 
-I found myself wanting to learn more of this magic the developers called code, and with that I eventually found my way to [Maker's Academy](www.makersacademy.com).
+I found myself wanting to learn more of this magic the developers called code, and with that I eventually found my way to [Makers Academy](www.makersacademy.com).
 
 # Projects
 
