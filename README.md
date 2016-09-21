@@ -6,21 +6,25 @@
 
 From Software Consultant to Jr. Web Developer in 12-weeks...
 
-As a consultant I had many tasks, from general app support to product ownership in a fully agile team. Perhaps my proudest achievement to date was the successful deployment and release to clients of a reporting module I was product owner for. 
+As a consultant I had many tasks, from general app support to product ownership in a fully agile team. Perhaps my proudest achievement to date was the successful deployment and release to clients of a reporting module I was product owner for.
 
 I had worked for almost two years in my scrum agile team on the project, and after giving many end-of-sprint demos; having successful and unsuccessful MVPs; many bug fixes, incidents (minor and major!), and an endless amount of meetings, the satisfaction of finally releasing a live product to the wild made me realise, this is the industry I want to work in...just not as a consultant.
 
-Having come from the 'other side' of tech, and from having worked with many developers during my career, it always amazed me to see what can be achieved by a good team of developers - I can't count the number of times they saved my ass with a quick bugfix in the minutes before presenting a demo. 
+Having come from the 'other side' of tech, and from having worked with many developers during my career, it always amazed me to see what can be achieved by a good team of developers - I can't count the number of times they saved my ass with a quick bugfix in the minutes before presenting a demo.
 
 I found myself wanting to learn more of this magic the developers called code, and with that I eventually found my way to [Makers Academy](www.makersacademy.com).
 
 # Projects
 
-
+Name | Description | Technology | Testing |
+---|---|---|---|---
+ [Challenge Accepted](https://github.com/challenge-accepted-team) | Challenge Accepted is a mobile app that facilitates social betting, think you can beat your friend at ping-pong? Challenge them and the loser will buy a round of drinks. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
+ [Blue Steel](https://github.com/j-luong/Blue-Steel-instagram-challenge) | An Instagram clone dedicated to the many looks of fashion icon Derek Zoolander | Rails, Ruby, PostgreSQL, Javascript, jQuery | Rspec, Capybara
+ [Oystercard](https://github.com/agakow/crashpad) | Early work from Makers focusing on core principles such as: TDD, Clean-code, and OOP | Ruby | RSpec
 
 # Experience
 
-**Application Support Engineer** (04/2015 – 05/2016)
+**Consultant/Support Engineer** (04/2015 – 05/2016)
 
 **Hogarth Worldwide** (London, UK)
 
@@ -64,4 +68,28 @@ I found myself wanting to learn more of this magic the developers called code, a
 
 # Skills
 
+**Agile Scrum**
+
+As a Software Consultant I was working in a very Agile Scrum focused environment. As such, I am familiar with the Agile Scrum development process and using the industry standard software Jira to manage Scrum teams
+
+I regularly took part various Scurm related activities such as: creating user stories, sprint planning, daily stand-ups, sprint review sessions, and backlog management.
+
+**Application Support**
+
+Having worked in software companies, I am accutely aware of requiment for continual service maintenance and the need for BAU operations. I am ITIL v3 certified, and am familiar with ticketing systems such as Zendesk, and Service Now.
+
+**Documentation**
+
+You don't like doing it, I don't like doing it, nobody likes doing it. Throughout my career, particularly as a Product Owner, documentation was core responsibility. I am familiar with updating and maintaining documentation, and editing and updating internal wikis.
+
+I don't like it, but I do it because it must be done (and because knowledge is the [path to wisdom and enlightenment](http://johnkapeleris.com/blog/?p=1752)).
+
 # Education
+
+**Makers Academy** (07/2016 – 09/2016)
+
+**Escape Studios - 3D for Visual Effects** (09/2014 – 12/2014)
+
+**FDM - Trainee Murex Analyst** (05/2012 – 08/2012)
+
+**University of Westminister - BSc Computer Games design and programming** *1st class honours* (2007 – 2010)
