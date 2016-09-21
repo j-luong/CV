@@ -1,3 +1,5 @@
+[Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) |
+
 # Jason Luong
 
 # Profile
