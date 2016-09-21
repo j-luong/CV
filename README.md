@@ -22,7 +22,7 @@ I found myself wanting to learn more of this magic the developers called code, a
 
 **Application Support Engineer** (04/2015 – 05/2016)
 
-**Hogarth Worldwide – London, UK**
+**Hogarth Worldwide** (London, UK)
 
 * Responsible for the reconfiguration of the Service Now incident management platform, after an unsuccessful deployment
 
@@ -36,9 +36,9 @@ I found myself wanting to learn more of this magic the developers called code, a
 
 * Supported several products for both internal and external clients
 
-**Murex Support Consultant** (09/2012 –09/2014)
+**Murex Support Consultant** (09/2012 – 09/2014)
 
-**Murex – Paris, France**
+**Murex** (Paris, France)
 * Working in the Integration DMM team to provide 2 nd line software support and case resolution to all DMM related issues, for both internal and external clients
 
 * Using internal CRM software to log and manage incidents
@@ -58,9 +58,9 @@ I found myself wanting to learn more of this magic the developers called code, a
 * Participating in company wide release management testing by performing non-regression and bug testing on alpha builds
 
 
-**EPIK English teacher** (02/2011 –02/2012)
+**EPIK English teacher** (02/2011 – 02/2012)
 
-**Yonchon school – Busan, South Korea**
+**Yonchon school** (Busan, South Korea)
 
 # Skills
 
