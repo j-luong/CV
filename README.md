@@ -1,10 +1,9 @@
 # Jason Luong
+###### *Junior Web Developer seeking back-end / full-stack development role*
 
 [Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) |
 
 # Profile
-
-Junior Web Developer seeking full-stack role.
 
 From Software Consultant to Junior Web Developer in 12-weeks...
 
@@ -76,9 +75,15 @@ As a Software Consultant I was working in a very Agile Scrum focused environment
 
 I regularly took part various Scurm related activities such as: creating user stories, sprint planning, daily stand-ups, sprint review sessions, and backlog management.
 
-**Application Support**
+**Team work**
 
-Having worked in software companies, I am accutely aware of requiment for continual service maintenance and the need for BAU operations. I am ITIL v3 certified, and am familiar with ticketing systems such as Zendesk, and Service Now.
+Having worked for two large companies, I understand the value of a good team. My time as Product Owner involved a team of 3 developers and 3 consultants (including myself).
+
+The need for constant and effective communication through daily stand-ups, retrospectives, sprint reviews, and various other methods meant we were able to work through any obsticle together.
+
+**Curious nature**
+
+My role as an Application Support Analyst required me to be curious. When things broke, it was my job to find out why; and it was my job to communicate this effectively to both client and the development team, if it needed escalation.
 
 **Documentation**
 
