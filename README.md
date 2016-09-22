@@ -20,7 +20,7 @@ I found myself wanting to learn more of this magic the developers called code, a
 
 Name | Description | Technology | Testing |
 ---|---|---|---|---
- [Challenge Accepted](https://github.com/challenge-accepted-team) | Challenge Accepted is a mobile app that facilitates social betting, think you can beat your friend at ping-pong? Challenge them and the loser will buy a round of drinks. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
+ [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a mobile app that facilitates social betting, think you can beat your friend at ping-pong? Challenge them and the loser will buy a round of drinks. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
  [Blue Steel](https://github.com/j-luong/Blue-Steel-instagram-challenge) | An Instagram clone dedicated to the many looks of fashion icon Derek Zoolander | Rails, Ruby, PostgreSQL, Javascript, jQuery | Rspec, Capybara
  [Oystercard](https://github.com/j-luong/oystercard) | Early work from Makers focusing on core principles such as: TDD, Clean-code, and OOP | Ruby | RSpec
 
