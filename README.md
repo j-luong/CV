@@ -4,7 +4,9 @@
 
 # Profile
 
-From Software Consultant to Jr. Web Developer in 12-weeks...
+Junior Web Developer seeking full-stack role.
+
+From Software Consultant to Junior Web Developer in 12-weeks...
 
 As a consultant I had many tasks, from general app support to product ownership in a fully agile team. Perhaps my proudest achievement to date was the successful deployment and release to clients of a reporting module I was product owner for.
 
