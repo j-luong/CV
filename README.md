@@ -71,7 +71,7 @@ Name | Description | Technology | Testing |
 
 **Agile Scrum**
 
-As a Software Consultant I was working in a very Agile Scrum focused environment. As such, I am familiar with the Agile Scrum development process and using the industry standard software Jira to manage Scrum teams
+As a Software Consultant I was working in a very Agile Scrum focused environment. As such, I am familiar with the Agile Scrum development process and using the industry standard software Jira to manage our work.
 
 I regularly took part in various Scurm related activities such as: creating user stories, sprint planning, daily stand-ups, sprint review sessions, and backlog management.
 
