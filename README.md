@@ -1,7 +1,7 @@
+[Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) |
+
 # Jason Luong
 ###### *Junior Web Developer seeking back-end / full-stack development role*
-
-[Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) |
 
 # Profile
 
