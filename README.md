@@ -1,6 +1,7 @@
 [Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) |
 
-# Jason Luong
+# Jason Luong 
+#####jason.qh.luong@gmail.com
 ###### *Junior Web Developer seeking back-end / full-stack development role*
 
 # Profile
