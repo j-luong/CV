@@ -1,6 +1,6 @@
 [Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) |
 
-# Jason Luong 
+# Jason Luong
 #####jason.qh.luong@gmail.com
 ###### *Junior Web Developer seeking back-end / full-stack development role*
 
@@ -65,7 +65,7 @@ Name | Description | Technology | Testing |
 * Participating in company wide release management testing by performing non-regression and bug testing on alpha builds
 
 
-**EPIK English teacher** (02/2011 – 02/2012)
+**EPIK English Teacher** (02/2011 – 02/2012)
 
 **Yonchon school** (Busan, South Korea)
 
