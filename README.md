@@ -46,7 +46,7 @@ Name | Description | Technology | Testing |
 **Murex Support Consultant** (09/2012 – 09/2014)
 
 **Murex** (Paris, France)
-* Working in the Integration DMM team to provide 2 nd line software support and case resolution to all DMM related issues, for both internal and external clients
+* Working in the Integration DMM team to provide 2nd line software support and case resolution to all DMM related issues, for both internal and external clients
 
 * Using internal CRM software to log and manage incidents
 
