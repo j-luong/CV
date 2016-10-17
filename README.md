@@ -110,4 +110,4 @@ I don't like it, but I do it because it must be done (and because knowledge is t
 
 **University of Westminister - BSc Computer Games design and programming** *1st class honours* (2007 – 2010)
 
-_Final year project: [Investigation and Application of Physics in Cue Sports](https://vimeo.com/12395526)_
+_Final year project: [Investigation and Application of Physics in Cue Sports](https://github.com/j-luong/MyBilliards)_
