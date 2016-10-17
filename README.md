@@ -96,6 +96,13 @@ I don't like it, but I do it because it must be done (and because knowledge is t
 # Education
 
 **Makers Academy** (07/2016 – 09/2016)
+- 12-week intensive coding bootcamp
+- Pair Programming
+- Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC, XP
+- Software Craftsmanship
+- Ruby, Rails, Javascript
+- Rspec, Jasmine, Mocha, Capybara
 
 **Escape Studios - 3D for Visual Effects** (09/2014 – 12/2014)
 
