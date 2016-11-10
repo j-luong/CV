@@ -27,9 +27,7 @@ Week |Name | Description | Technology | Testing |
 
 # Experience
 
-**Consultant/Support Engineer** (04/2015 – 05/2016)
-
-**Hogarth Worldwide** (London, UK)
+**Consultant/Support Engineer** (04/2015 – 05/2016) - _Hogarth Worldwide (London, UK)_
 
 * Responsible for the reconfiguration of the Service Now incident management platform, after an unsuccessful deployment
 
@@ -43,9 +41,7 @@ Week |Name | Description | Technology | Testing |
 
 * Supported several products for both internal and external clients
 
-**Murex Support Consultant** (09/2012 – 09/2014)
-
-**Murex** (Paris, France)
+**Murex Support Consultant** (09/2012 – 09/2014) - _Murex (Paris, France)_
 * Working in the Integration DMM team to provide 2nd line software support and case resolution to all DMM related issues, for both internal and external clients
 
 * Using internal CRM software to log and manage incidents
@@ -65,9 +61,7 @@ Week |Name | Description | Technology | Testing |
 * Participating in company wide release management testing by performing non-regression and bug testing on alpha builds
 
 
-**EPIK English Teacher** (02/2011 – 02/2012)
-
-**Yonchon school** (Busan, South Korea)
+**EPIK English Teacher** (02/2011 – 02/2012) - _Yonchon school (Busan, South Korea)_
 
 # Skills
 
