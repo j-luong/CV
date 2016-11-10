@@ -2,7 +2,7 @@
 
 # Jason Luong
 #####jason.qh.luong@gmail.com
-###### *Junior Web Developer seeking back-end / full-stack development role*
+###### *Junior Developer seeking development role*
 
 # Profile
 
