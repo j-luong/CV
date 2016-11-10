@@ -1,7 +1,6 @@
-[Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) |
+[Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) | jason.qh.luong@gmail.com
 
 # Jason Luong
-#####jason.qh.luong@gmail.com
 ###### *Junior Developer seeking development role*
 
 # Profile
