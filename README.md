@@ -5,7 +5,7 @@
 
 # Profile
 
-From Software Consultant to Junior Web Developer in 12-weeks...
+From Software Consultant to Developer in 12-weeks...
 
 As a consultant I had many tasks, from general app support to product ownership in a fully agile team. Perhaps my proudest achievement to date was the successful deployment and release to clients of a reporting module I was product owner for.
 
@@ -20,11 +20,25 @@ I found myself wanting to learn more of this magic the developers called code, a
 | Name | Description | Technology | Testing |
 |:---|:---|:---|:---|
 | [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a mobile app that facilitates social betting, think you can beat your friend at ping-pong? Challenge them and the loser will buy a round of drinks. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework |
-| [IncyWincy Web Crawler](https://github.com/incyWebCrawler/incy) ([Heroku link](https://incy-wincy.herokuapp.com/)) | A technical group exercise created in three days. The goal was to create a basic web crawler/scraper. In the end we used IncyWincy to site-map websites. | Rails, Ruby, Nokogiri, PostgreSQL| Capybara, RSpec |
+| [IncyWincy Web Crawler](https://github.com/incyWebCrawler/incy) | A technical group exercise created in three days. The goal was to create a basic web crawler/scraper. In the end we used IncyWincy to site-map websites. | Rails, Ruby, Nokogiri, PostgreSQL| Capybara, RSpec |
 | [Thermostat](https://github.com/j-luong/js_thermostat) | Practicing JavaScript and JQuery by creating a thermostat | JavaScript, JQuery | Jasmine |
 | [Oystercard](https://github.com/j-luong/oystercard) | Early work from Makers focusing on core principles such as: TDD, Clean-code, and OOP | Ruby | RSpec |
 
 # Experience
+
+**Backend NodeJS Developer** (11/2016 – Present) - _Jigsaw XYZ (London, UK)_
+
+Part of the Engineering team, main responsibilities included:
+
+* Building backend APIs using NodeJS, ExpressJS, and Postgres
+
+* Following BDD/TDD best practices using Mocha, Chai, and CucumberJS
+
+* Using AWS Lambda, API Gateway, and other services to build serverless API
+
+* Using AWS EC2, Docker, Kubernetes to bulid microservices
+
+* Using GitLab to manage CI/CD
 
 **Consultant/Support Engineer** (04/2015 – 05/2016) - _Hogarth Worldwide (London, UK)_
 
@@ -84,7 +98,7 @@ My role as an Application Support Analyst required me to be curious. When things
 
 You don't like doing it, I don't like doing it, nobody likes doing it. Throughout my career, particularly as a Product Owner, documentation was core responsibility. I am familiar with updating and maintaining documentation, and editing and updating internal wikis.
 
-I don't like it, but I do it because it must be done (and because knowledge is the [path to wisdom and enlightenment](http://johnkapeleris.com/blog/?p=1752)).
+I don't like it, but I do it because it must be done (and because knowledge is the [path to wisdom and enlightenment](https://en.wikipedia.org/wiki/DIKW_pyramid)).
 
 # Education
 
