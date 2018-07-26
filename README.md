@@ -1,7 +1,7 @@
 [Profile](#profile) | [Projects](#projects) | [Experience](#experience) |  [Skills](#skills) | [Education](#education) | jason.qh.luong@gmail.com
 
 # Jason Luong
-###### *Junior Developer seeking development role*
+###### *Backend NodeJS Engineer*
 
 # Profile
 
@@ -17,12 +17,12 @@ I found myself wanting to learn more of this magic the developers called code, a
 
 # Projects
 
-Week |Name | Description | Technology | Testing |
----|---|---|---|---|---
-10 | [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a mobile app that facilitates social betting, think you can beat your friend at ping-pong? Challenge them and the loser will buy a round of drinks. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
-8 | [IncyWincy Web Crawler](https://github.com/incyWebCrawler/incy) ([Heroku link](https://incy-wincy.herokuapp.com/)) | A technical group exercise created in three days. The goal was to create a basic web crawler/scraper. In the end we used IncyWincy to site-map websites. | Rails, Ruby, Nokogiri, PostgreSQL| Capybara, RSpec
-4 | [Thermostat](https://github.com/j-luong/js_thermostat) | Practicing JavaScript and JQuery by creating a thermostat | JavaScript, JQuery | Jasmine
-2 | [Oystercard](https://github.com/j-luong/oystercard) | Early work from Makers focusing on core principles such as: TDD, Clean-code, and OOP | Ruby | RSpec
+| Name | Description | Technology | Testing |
+|:---|:---|:---|:---|
+| [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a mobile app that facilitates social betting, think you can beat your friend at ping-pong? Challenge them and the loser will buy a round of drinks. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework |
+| [IncyWincy Web Crawler](https://github.com/incyWebCrawler/incy) ([Heroku link](https://incy-wincy.herokuapp.com/)) | A technical group exercise created in three days. The goal was to create a basic web crawler/scraper. In the end we used IncyWincy to site-map websites. | Rails, Ruby, Nokogiri, PostgreSQL| Capybara, RSpec |
+| [Thermostat](https://github.com/j-luong/js_thermostat) | Practicing JavaScript and JQuery by creating a thermostat | JavaScript, JQuery | Jasmine |
+| [Oystercard](https://github.com/j-luong/oystercard) | Early work from Makers focusing on core principles such as: TDD, Clean-code, and OOP | Ruby | RSpec |
 
 # Experience
 
